@@ -20,7 +20,6 @@ module.exports = {
         spaceId: "x5ov8lh7bw70",
       },
     },
-    "gatsby-transformer-remark",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
